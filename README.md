@@ -1,5 +1,4 @@
 # bookshelf
+1. vim books: http://vim.begin-site.org/books/
 
-1. Free book websites
 
-2. Booklist
